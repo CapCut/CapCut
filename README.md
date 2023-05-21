@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CapCut&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

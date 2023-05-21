@@ -7,7 +7,7 @@
 	<a href="https://youtu.be/5BmsiKo3JjI" />
 	<img src="https://img.shields.io/youtube/views/5BmsiKo3JjI?color=black&label=video&logo=Youtube&logoColor=red&style=for-the-badge" />
 </div>
-<hr>
+
 ---
 ### 👨‍💻 About Me :
 - 🌱 I’m currently learning **JavaScript, HTML and Python**.

@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+	<img src="https://drive.google.com/file/d/148BX2l9dS7FBoRXXGzZlYWV3aNW9DbxW/view?usp=sharing" width="300" />
+	<h1 align="center">Hello 👋, I'm Méndez Rafael</h1>
+	<h3 align="center">I am passionate about programming and web development. I also like to create content related to programming or entertainment on social networks.</h3>  
+</div>
 <!--
 **CapCut/CapCut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

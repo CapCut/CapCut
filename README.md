@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
 	<img src="https://drive.google.com/file/d/148BX2l9dS7FBoRXXGzZlYWV3aNW9DbxW/view?usp=sharing" width="300" />
 	<h1 align="center">Hello 👋, I'm Méndez Rafael</h1>

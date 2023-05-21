@@ -4,7 +4,8 @@
 	<h3 align="center">I am passionate about programming and web development. I also like to create content related to programming or entertainment on social networks.</h3>  
 </div>
 <div id="badges" align="center">
-	<a href="https://img.shields.io/youtube/views/5BmsiKo3JjI?color=black&label=video&logo=Youtube&logoColor=red&style=for-the-badge" />
+	<a href="https://youtu.be/5BmsiKo3JjI" />
+	<img src="https://img.shields.io/youtube/views/5BmsiKo3JjI?color=black&label=video&logo=Youtube&logoColor=red&style=for-the-badge" />
 </div>
 <!--
 **CapCut/CapCut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

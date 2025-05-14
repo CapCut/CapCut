@@ -49,14 +49,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 My Stats  🚀 :
+### 📊 My Stats 🚀 :
 
- <div align=center>
-	 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile) ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+<div align="center">
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![CapCut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapCut&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile) 
+
+![CapCut's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CapCut&theme=tokyonight&layout=compact)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 </div>
+
 
 ## 🛠️ My Skills
 

@@ -4,10 +4,11 @@
 	<img src="[https://drive.google.com/file/d/148BX2l9dS7FBoRXXGzZlYWV3aNW9DbxW/view?usp=share_link](https://plus.unsplash.com/premium_photo-1661882403999-46081e67c401?q=80&w=1429&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="300" />
 	<h1 align="center">Hello 👋, I'm Méndez Rafael</h1>
 	<h3 align="center">I am passionate about programming and web development. I also like to create content related to programming or entertainment on social networks.</h3>  
+</div>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ </a> 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -20,6 +21,7 @@
 ```
 
 👨‍💻 About Me :
+-------------------------
 🌱 I’m currently learning JavaScript, HTML and Python.
 💬 Ask me about JavaScript, HTML and Python.
 📫 How to reach me: mendezlivarluis@gmail.com
@@ -27,7 +29,6 @@
 
 ```
 <hr>
-</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -47,8 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 📊 My Stats  🚀 :
 

@@ -115,6 +115,6 @@ Here are some ideas to get you started:
 
 ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![CapCut's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CapCut&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

@@ -4,15 +4,33 @@
 	<img src="[https://drive.google.com/file/d/148BX2l9dS7FBoRXXGzZlYWV3aNW9DbxW/view?usp=share_link](https://plus.unsplash.com/premium_photo-1661882403999-46081e67c401?q=80&w=1429&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="300" />
 	<h1 align="center">Hello 👋, I'm Méndez Rafael</h1>
 	<h3 align="center">I am passionate about programming and web development. I also like to create content related to programming or entertainment on social networks.</h3>  
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+```
+
+👨‍💻 About Me :
+🌱 I’m currently learning JavaScript, HTML and Python.
+💬 Ask me about JavaScript, HTML and Python.
+📫 How to reach me: mendezlivarluis@gmail.com
+⚡ Fun fact: The first computer mouse was made of wood.
+
+```
+<hr>
 </div>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-### 👨‍💻 About Me :
-- 🌱 I’m currently learning **JavaScript, HTML and Python**.
-- 💬 Ask me about **JavaScript, HTML and Python**.
-- 📫 How to reach me: **mendezlivarluis@gmail.com**
-- ⚡ Fun fact: **The first computer mouse was made of wood.**
 <!--
 **CapCut/CapCut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 	<img src="[https://drive.google.com/file/d/148BX2l9dS7FBoRXXGzZlYWV3aNW9DbxW/view?usp=share_link](https://plus.unsplash.com/premium_photo-1661882403999-46081e67c401?q=80&w=1429&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="300" />
-	<h1 align="center">Hello 👋, I'm Méndez Rafael</h1>
+	<h1 align="center">Hello, I'm Méndez Rafael</h1>
 	<h3 align="center">I am passionate about programming and web development. I also like to create content related to programming or entertainment on social networks.</h3>  
 </div>
 
@@ -51,14 +51,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-#
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+### ☢ My 𝚂𝚝𝚊𝚝𝚜 :
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=CapCut&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>

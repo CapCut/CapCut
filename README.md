@@ -49,19 +49,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 My Stats 🚀 :
+<br/>
 
-<div align="center">
+#
 
-![CapCut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapCut&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile) 
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
 
-![CapCut's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CapCut&theme=tokyonight&layout=compact)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
-</div>
-
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CapCut&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapCut&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
 
 ## 🛠️ My Skills
 
